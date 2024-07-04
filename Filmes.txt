@@ -1,0 +1,6 @@
+Madagascar;aventura;200;5
+Avatar;Aventura;180;5
+Principe da Persia;Aventura;180;5
+Duro de Matar;Tiro;160;4
+Corrida Mortal;Corrida;175;4
+Madagascar;Aventura;150;5
